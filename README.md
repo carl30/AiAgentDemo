@@ -171,4 +171,4 @@ docker run -p 8000:8000 ai-agent-demo
 
 ## 许可证
 
-MIT License 
+None
