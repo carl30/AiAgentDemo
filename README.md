@@ -21,6 +21,10 @@
 - **Docker** - 容器化部署
 - **SQLite** - 轻量级数据库
 
+## Todos
+- [ ] search engine invoke (free engine instead)
+- [ ] opit prompt
+
 ## 快速开始
 
 ### 1. 环境准备
