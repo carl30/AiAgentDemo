@@ -23,7 +23,7 @@
 
 ## Todos
 - [ ] search engine invoke (free engine instead)
-- [ ] opit prompt
+- [ ] opti prompt
 
 ## 快速开始
 
